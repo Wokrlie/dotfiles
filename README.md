@@ -1,9 +1,9 @@
 # Dotfiles
-This repo is my personal config. 
-![Vim](https://img.shields.io/badge/Editor-Vim-green)
-Required:
-    stow
-    vim (no Neovim)
+![Vim](https://img.shields.io/badge/Editor-Vim-green)  
+> Based on GNU Stow manage personal develope envrioment configuration.  
+Required:  
+    stow  
+    vim (no Neovim)  
     bash
 
 ## Notice
