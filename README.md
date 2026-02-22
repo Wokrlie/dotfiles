@@ -17,7 +17,7 @@ This is the vim effect:
 ## Quick Start
 1. Clone repo. 
 ```bash
-git clone [https://github.com/Wokrlie/dotfiles.git](https://github.com/Wokrlie/dotfiles.git) ~/dotfiles
+git clone https://github.com/Wokrlie/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 2. Stow
