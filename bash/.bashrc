@@ -139,3 +139,4 @@ export RUSTUP_UPDATE_ROOT=https://rsproxy.cn/rustup
 
 export GOPATH=$HOME/go
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+export PATH="$HOME/.local/bin:$PATH"

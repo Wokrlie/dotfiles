@@ -25,3 +25,5 @@ set expandtab
 
 set number
 set cursorline
+nnoremap <leader>kp :silent !kitty @ launch --location=vsplit --cwd=current glow -p %:p<CR>
+set clipboard=unnamedplus

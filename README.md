@@ -8,6 +8,8 @@ Required:
     bash
 
 ## Notice
+Vim configuration of this repo is writing for Origin Vim.  
+Don't load vim configuations with `nvim`  
 Please ensure your vim is newest for unokai color scheme.
 
 ## Effect

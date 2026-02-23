@@ -1,0 +1,16 @@
+[http "https://e.coding.net"]
+	proxy = 
+[http "https://codeup.aliyun.com"]
+	proxy = 
+[http]
+	sslVerify = false
+	proxy = http://127.0.0.1:31180
+[http "https://gitee.com"]
+	proxy = 
+[user]
+	email = hehelilibz@gmail.com
+	name = Wokrlie
+[credential]
+	helper = store
+[https]
+	proxy = http://127.0.0.1:31181
