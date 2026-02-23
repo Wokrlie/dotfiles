@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/wokrlie/Downloads/my-v3-app/frontend/src'
+let g:netrw_dirhist_3='/home/wokrlie/Downloads/my-v3-app/frontend'
+let g:netrw_dirhist_2='/home/wokrlie/Projects/VulkanTest.Rust/src/core'
+let g:netrw_dirhist_1='/home/wokrlie/Projects/VulkanTest.Rust/src'
