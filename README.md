@@ -10,7 +10,6 @@
 ## Notice
 Vim configuration of this repo is writing for Origin Vim.  
 Don't load vim configuations with `nvim`  
-Please ensure your vim is newest for unokai color scheme.
 
 ## Effect
 This is the vim effect:
@@ -26,7 +25,9 @@ cd ~/dotfiles
 ```bash
 stow vim
 stow bash
+stow git
 ```
 ## Directory Struct
 - `vim/`: include `.vimrc` and basic configuration.
 - `bash/`: include `.bashrc` and basic envrioment configuration.
+- `git/`: include `.gitconfig`.
