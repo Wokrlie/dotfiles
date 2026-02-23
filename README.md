@@ -2,10 +2,11 @@
 ![Vim](https://img.shields.io/badge/Editor-Vim-green)  
 > Based on GNU Stow manage personal develope envrioment configuration.  
 
-Required:  
-    stow  
+**Required:  **
+``` stow  
     vim (no Neovim)  
     bash
+```
 
 ## Notice
 Vim configuration of this repo is writing for Origin Vim.  
